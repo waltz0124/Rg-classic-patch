@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/waltz0124/Rg-classic-patch/releases/download/classic-launcher-1.0.3-20261121173812-613f72f3f8c14bd28dbcbb2b61ca604e-part001/payload-f2634c8ca0bf0b2a72f7360f671c85d444033c387bc9f1cf3476a36f0cd0178a.bin",
-  "size": 53167304,
-  "sha256": "F2634C8CA0BF0B2A72F7360F671C85D444033C387BC9F1CF3476A36F0CD0178A",
-  "updaterUrl": "https://github.com/waltz0124/Rg-classic-patch/releases/download/classic-launcher-1.0.3-20261121173812-613f72f3f8c14bd28dbcbb2b61ca604e-part001/payload-da536f7dc05675ba3f57c81dcc6c30d494c77e5a51d00382da4071f84734174e.bin",
+  "version": "1.0.4",
+  "url": "https://github.com/waltz0124/Rg-classic-patch/releases/download/classic-launcher-1.0.4-20261122033119-4d7e67243ff5475c90da7b5fe5f02718-part001/payload-60bcd1d5b4aab94769c1387edb5efb33a9c945305e089b6c27927c37264aacc3.bin",
+  "size": 53167816,
+  "sha256": "60BCD1D5B4AAB94769C1387EDB5EFB33A9C945305E089B6C27927C37264AACC3",
+  "updaterUrl": "https://github.com/waltz0124/Rg-classic-patch/releases/download/classic-launcher-1.0.4-20261122033119-4d7e67243ff5475c90da7b5fe5f02718-part001/payload-da536f7dc05675ba3f57c81dcc6c30d494c77e5a51d00382da4071f84734174e.bin",
   "updaterSha256": "DA536F7DC05675BA3F57C81DCC6C30D494C77E5A51D00382DA4071F84734174E",
   "required": true
 }
